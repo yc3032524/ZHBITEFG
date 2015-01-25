@@ -1,0 +1,16 @@
+@charset "utf-8";
+.filediv{
+	position: absolute;
+}
+.filednewcss{ 
+		background-color:blue;
+		opacity: 0; 
+		width: 30px;
+		height: 30px;
+		
+		} 
+.fileinput{
+	position: absolute;
+	top:1px;
+	left: 620px; 
+ } 
